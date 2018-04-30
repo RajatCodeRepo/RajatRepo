@@ -1,5 +1,8 @@
 x=10
 y=30
 z=123
+<<<<<<< HEAD
 String str = "Rajat is a good boy"
+=======
 String str = "Rajat Goel"
+>>>>>>> 9a85e4c2c26bdf2e0f377f78df9cdbdbb1cb434b
